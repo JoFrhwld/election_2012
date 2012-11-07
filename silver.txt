@@ -52,4 +52,4 @@ Virginia	50.7	48.7 	48.2	46.9
 Washington	56.2	42.6 	53.9	41.2
 West Virginia	41.3	57.5 	38.0	52.0
 Wisconsin	52.4	46.9 	50.1	45.8
-Wyoming	30.9	67.7 	NA 	NA
+Wyoming	30.9	67.7 	NA	NA
